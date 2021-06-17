@@ -10,9 +10,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.revature</groupId>
-	<artifactId>project-registry-project-microservice</artifactId>
+	<artifactId>project-registry-account-microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>project-registry-project-microservice</name>
+	<name>project-registry-account-microservice</name>
 	<description>Project Mircoservice for Backend Repository</description>
 
 	<properties>
