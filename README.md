@@ -1,6 +1,6 @@
 # project-registry-account-microservice
 ## Project Description
-This is a microservice representation of the Registry Backend. This microservice contains Controller and Service methods for Account.
+This is a microservice representation of the Registry Backend. This microservice contains Controller and Service methods for Account, none have which needed to be implemented for the most recent completed sprint.
 
 ## Technologies Used
 * Java 8
@@ -19,12 +19,12 @@ This is a microservice representation of the Registry Backend. This microservice
 * CRUD operations for Accountt.
 * Has API endpoints to connect to each service.
 
-To-do List:
+## To-do List:
 * Create separate database structure for this microservice.
 
 ## Usage
 
-# Running Locally
+## Running Locally
 #### Reference the **Running Locally** section in https://github.com/Project-Registry-991-Kevin-Tran-Huu/project-registry-gateway and have it running before this service
 * git clone https://github.com/Project-Registry-991-Kevin-Tran-Huu/project-registry-account-microservice.git
 * Run this project in Eclipse or SpringToolSuite
@@ -33,4 +33,4 @@ To-do List:
 * Launch this application using spring boot.
 * This app will run at http://localhost:8081
 
-# Docker Image
+## Docker Image
