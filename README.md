@@ -16,11 +16,14 @@ This is a microservice representation of the Registry Backend. This microservice
 
 ## Features
 * Communicate with the Account table within a AWS S3 database.
-* CRUD operations for Accountt.
+* CRUD operations for Account.
 * Has API endpoints to connect to each service.
 
 ## To-do List:
+* Create methods for the frontend login functionality.
 * Create separate database structure for this microservice.
+* Implement AOP Logging Aspect.
+* Implement DTO methods for secure inputs to the api.
 
 ## Usage
 
@@ -33,5 +36,3 @@ This is a microservice representation of the Registry Backend. This microservice
 * Launch the Gateway service
 * Launch this application using spring boot.
 * This app will run at http://localhost:8081
-
-## Docker Image
